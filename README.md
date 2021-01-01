@@ -13,6 +13,7 @@ Fully Functioning 'Computer-screen UI' Calculator
 * this.state
 * parseInt() convert string to number
 * onClick operand recognition
+* Leading zero correct
 
 ## Getting Started
 
